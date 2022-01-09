@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
 title: [Zubaer's Personal Website]
 description: [It is zubaer ahmed and this is a fake identity]
+
+github:
+  another_url: another_page.md
