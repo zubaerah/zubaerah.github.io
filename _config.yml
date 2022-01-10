@@ -1,6 +1,12 @@
 theme: jekyll-theme-minimal
 logo: /assets/img/python.png
-title: [Zubaer's Personal Website]
+title: [Zubaer Ahmed]
 description: [It is zubaer ahmed and this is a fake identity]
-another_page: /another_page.md
+email: zubaerahmed00@gmail.com
+show_downloads: false
+google_analytics:
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
 
